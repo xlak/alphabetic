@@ -11,6 +11,7 @@ Hapara Highlights | ✔️
 Hapara Filter | ✔️
 Lightspeed | 🧪
 ZScaler | 🧪
+FortiGate | 🧪
 Securly | ❓
 LanSchool | ❓
 GoGuardian | ❓
