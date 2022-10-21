@@ -11,6 +11,7 @@ Filter | Supported
 --- | ---
 Hapara Highlights | ✔️
 Hapara Filter | ✔️
+iBoss | ✔️
 Lightspeed | 🧪
 ZScaler | 🧪
 FortiGate | 🧪
