@@ -32,24 +32,26 @@
   <br><br>
 </div>
 <style>
-    body {
+      body {
         align-items: center;
         justify-content: center;
         display: flex;
         user-select: none;
         font-family: sans-serif;
-    }
-    .main, .center_button {
-      text-align: center;
+        background: black;
+        color: white;
     }
   a, button {
-    border: 2px solid black;
-    color: black;
-    background: white;
+    border: 2px solid white;
+    color: white;
+    background: black;
     font-size: larger;
     border-radius: 40px;
     padding: 12px;
   }
+    .main, .center_button {
+      text-align: center;
+    }
 </style>
 <script>
   document.querySelector('a').onclick=(e) => e.preventDefault()
